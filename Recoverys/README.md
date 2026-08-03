@@ -1,5 +1,4 @@
-https://forum.xda-developers.com/t/recovery-a325x-stable-ish-unofficial-twrp-3-6-2_12-1-galaxy-a32-4g.4421287/
-Install:
+# Install:
 
 If you have TWRP or any custom recovery installed and bootable, you can upgrade instead; Look below.
 
@@ -95,3 +94,5 @@ Select System Image, then flash.
 If previously you were on stock, Wipe > Format data.
 Reboot System.
 Profit.
+
+Source: https://forum.xda-developers.com/t/recovery-a325x-stable-ish-unofficial-twrp-3-6-2_12-1-galaxy-a32-4g.4421287/
