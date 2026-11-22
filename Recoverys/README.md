@@ -71,7 +71,7 @@ Enjoy: Reboot your phone to have a rooted stock, install custom stuff or do what
 Upgrade:
 
 <!> Use when you already have any custom recovery installed (TWRP, SHRP, Ofox and the likes)
-Download TWRP image instead: https://github.com/almondnguyen/twr...a32-20220703/TWRP-3.6.2_12.1-a32-20220703.img
+Download TWRP image instead from this repo
 Copy it to phone, then reboot to TWRP (Combo is Power + Volume-up)
 Go: Install > Install image > select TWRP .img file > select Recovery
 Swipe to confirm flashing.
@@ -94,5 +94,3 @@ Select System Image, then flash.
 If previously you were on stock, Wipe > Format data.
 Reboot System.
 Profit.
-
-Source: https://forum.xda-developers.com/t/recovery-a325x-stable-ish-unofficial-twrp-3-6-2_12-1-galaxy-a32-4g.4421287/
